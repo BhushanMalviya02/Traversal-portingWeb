@@ -47,9 +47,9 @@ This project demonstrates:
 
 ---
 
-## 📸 Preview
+## 📸 Live Preview
 
-> A modern moving service landing page with a clean and minimal UI.
+https://bhushanmalviya02.github.io/porting-website--frontend-/
 
 ---
 
@@ -57,9 +57,4 @@ This project demonstrates:
 
 **Bhushan Malviya**
 
----
 
-
-## 📄 License
-
-This project is open-source and free to use.
